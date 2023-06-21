@@ -1,15 +1,12 @@
 {
-  "name": "estudos-nodejs",
+  "name": "npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [
-    "learning",
-    "nodejs"
-  ],
+  "keywords": [],
   "author": "Matheus Jardim",
   "license": "MIT",
   "dependencies": {
